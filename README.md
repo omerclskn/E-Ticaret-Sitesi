@@ -1,4 +1,6 @@
 # E-Ticaret-Sitesi
-Sistem Programlama Projesi / E-Ticaret Sitesi
+E-Commerce Site
 
-E-Ticaret Sitesi
+A B2C e-commerce site that allows you to shop for t-shirts and sweatshirts.
+It was developed with HTML, CSS, JavaScript and PHP technologies.
+Database is implemented with MySQL.
